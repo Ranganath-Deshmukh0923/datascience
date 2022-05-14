@@ -1,0 +1,28 @@
+columbus migration project
+natwest ->
+sas -> streamsets, informatica
+table -> on premise to cloud
+
+as part of migration
+1. minimize the time scales
+2. 
+
+streamsets:
+
+collector
+transformer
+transformer for snowflake
+
+sdk allows generation of pipeline across all products
+python sdk
+allows 
+automate create pipeline and all other tasks and deployments
+
+
+for loop can streamsets do that? 
+1.streamsets doesnt have row iterator, we need to use pyspark 
+2.sparksql can be used for this analytical functions
+
+how streamsets handle macro variables?
+
+
